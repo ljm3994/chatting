@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "채팅 클라이언트", "채팅 클라이언트\채팅 클라이언트.csproj", "{690DE247-3BB9-44AC-9F87-63688951BBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690DE247-3BB9-44AC-9F87-63688951BBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690DE247-3BB9-44AC-9F87-63688951BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690DE247-3BB9-44AC-9F87-63688951BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690DE247-3BB9-44AC-9F87-63688951BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
